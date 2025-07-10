@@ -1,0 +1,10 @@
+├── backend/
+│   ├── server.js
+│   └── books.json
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── LibraryManagementSystem.js
+├── LibraryManagementSystem_Arnav USC UCT.pdf
+├── README.md
